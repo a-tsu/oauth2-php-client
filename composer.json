@@ -1,0 +1,6 @@
+{
+    "name": "atmatsum/oauth2-php-client",
+    "require": {
+        "league/oauth2-client": "^2.4"
+    }
+}
